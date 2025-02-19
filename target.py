@@ -3,7 +3,7 @@ import requests
 import json
 
 # Replace with your Streamlit app URL (make sure it's publicly accessible)
-STREAMLIT_URL = "https://your-streamlit-app-url"
+STREAMLIT_URL = "https://middleman.streamlit.app/"
 
 def get_command():
     # Poll the command file (this is a simplified example)
